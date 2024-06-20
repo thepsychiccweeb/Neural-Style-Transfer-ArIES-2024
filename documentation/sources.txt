@@ -1,0 +1,7 @@
+pytorch implementation: https://pytorch.org/tutorials/advanced/neural_style_tutorial.html?highlight=style+transfer
+
+Arbitrary Image stylization: https://www.kaggle.com/models/google/arbitrary-image-stylization-v1/tensorFlow1/256/2?tfhub-redirect=true
+
+VGG19 weights: https://www.kaggle.com/datasets/saksham219/vgg19-weights
+
+A Neural Algorithm of Artistic Style: https://arxiv.org/pdf/1508.06576
